@@ -66,3 +66,5 @@ This REPO is licensed under the [GNU General Public License v3.0](LICENSE).
 ## Support
 
 If you have any questions, suggestions, or encounter any issues while using this REPO, please feel free to [open an issue](https://github.com/Innocentsax/Java_Pathway_and_Challenge/issues). Your feedback is highly appreciated! 
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZWwZb5VDw5iXgxaRPMCfoK95lk7P4YW-uCA&usqp=CAU" width="1200" height="250">
