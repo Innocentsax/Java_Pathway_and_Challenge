@@ -70,14 +70,22 @@ public class BankAccount {
 public class Main {
     public static void main(String[] args) {
 
-        BankAccount bankAccount = new BankAccount();
-        bankAccount.userAccount();
-        bankAccount.depositFunds(500);
-        bankAccount.withdrawFunds(250);
+        BankAccount udoAccount = new BankAccount();
 
-        bankAccount.depositFunds(100);
-        bankAccount.withdrawFunds(45);
-        bankAccount.withdrawFunds(250);
-    }
+        udoAccount.setAccountBalance(25000.00);
+        udoAccount.setAccountNumber("2120100312");
+        udoAccount.setCustomerName("UDO INNOCENT CHARLES");
+        udoAccount.setPhoneNumber("08163093928");
+        udoAccount.setEmail("innocentcharlesudo@gmail.com");
+
+        udoAccount.userAccount();
+
+
+        udoAccount.depositFunds(500);
+        udoAccount.withdrawFunds(250);
+
+        udoAccount.depositFunds(100);
+        udoAccount.withdrawFunds(45);
+        udoAccount.withdrawFunds(250);
 }
 
