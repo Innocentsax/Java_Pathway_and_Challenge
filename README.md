@@ -71,7 +71,7 @@ If you have any questions, suggestions, or encounter any issues while using this
 
 
 
-/*Steps to Eliminate Personal Access Token:
+<!-- Steps to Eliminate Personal Access Token:
  	
 	STEP 1: cd ~/.ssh
 
@@ -111,4 +111,4 @@ COURSES TO OFFER ON FREE TIME
 
 6. Learn more with Tech Michan school: https://online.umich.edu/series/postgresql-for-everybody/?utm_source=youtube&utm_medium=video-ad&utm_campaign=series-postgresql-for-everybody&utm_content=keywords-pg4e-dr-chuck-video&gclid=Cj0KCQiAzeSdBhC4ARIsACj36uHFgOCzlW0RhIwMwETxJtlyM0imMa68hPtkUdQQgg-iMXo-xL80AqwaAne7EALw_wcB
 
-*/
+-->
