@@ -68,3 +68,47 @@ This REPO is licensed under the [GNU General Public License v3.0](LICENSE).
 If you have any questions, suggestions, or encounter any issues while using this REPO, please feel free to [open an issue](https://github.com/Innocentsax/Java_Pathway_and_Challenge/issues). Your feedback is highly appreciated! 
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZWwZb5VDw5iXgxaRPMCfoK95lk7P4YW-uCA&usqp=CAU" width="1200" height="250">
+
+
+
+/*Steps to Eliminate Personal Access Token:
+ 	
+	STEP 1: cd ~/.ssh
+
+	STEP 2: ssh-keygen -t ed25519 -C "innocentcharlesudo@gmail.com"
+
+	STEP 3: Enter your pin
+
+	STEP 4: cat filename.pub
+
+
+https://howchoo.com/vim/vim-how-to-remove-trailing-whitespace-on-save
+
+Personal Access Token:
+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
+
+sprint2
+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
+
+
+checkout Switch statement in C_programming
+
+press esc, and press gg
+
+
+
+COURSES TO OFFER ON FREE TIME
+
+1. https://www.pluralsight.com/courses/cyber-security-essentials
+
+2. https://www.pluralsight.com/courses/microsoft-azure-administrator-create-configure-vm
+
+3. https://www.pluralsight.com/courses/introduction-threat-intelligence#
+
+4. here is where to download a certificate: https://help.pluralsight.com/help/certificate-of-completion?utm_source=site&utm_medium=drift&utm_campaign=AI
+
+5. where to download from history page: https://app.pluralsight.com/library/history?_gl=1*4j5oix*_ga*MjY3MzE4NjE0LjE2NTIzNTU3ODA.*_ga_525M96C6Y1*MTY3MjgzODUzNS4xLjEuMTY3Mjg0MzU4Ny4wLjAuMA..
+
+6. Learn more with Tech Michan school: https://online.umich.edu/series/postgresql-for-everybody/?utm_source=youtube&utm_medium=video-ad&utm_campaign=series-postgresql-for-everybody&utm_content=keywords-pg4e-dr-chuck-video&gclid=Cj0KCQiAzeSdBhC4ARIsACj36uHFgOCzlW0RhIwMwETxJtlyM0imMa68hPtkUdQQgg-iMXo-xL80AqwaAne7EALw_wcB
+
+*/
