@@ -26,6 +26,35 @@ public class Main {
         String helloWorld = "Hello World";
         System.out.printf("Index of r = %d %n", helloWorld.indexOf('r'));
         //System.out.printf("Index of World = %d %n", helloWorld.indexOf('World'));
+        
+        
+         // STRING MANIPULATION
+
+        //IndexOf() method and substring() Method
+        String birthDate = "25/11/1982";
+        int startingIndex = birthDate.indexOf("1982");
+        System.out.println("StartingIndex = " + startingIndex);
+        System.out.println("BirthYear = " + birthDate.substring(startingIndex));
+
+        System.out.println("Month = " + birthDate.substring(3,5));
+
+        // .Join() Method
+        String newDate = String.join("/", "25", "11", "1982");
+        System.out.println("newDate = " + newDate);
+        String name = String.join("....", "Innocent", "Charles", "Udo");
+        System.out.println(name);
+
+        // Replace() method
+        System.out.println(newDate.replace("/", "-"));
+        System.out.println(name.replace("Innocent", "Innocentsax"));
+
+        // .repeat() method
+        System.out.println("ABC\n".repeat(3));
+        System.out.println("-".repeat(20));
+
+        // .indent() method
+        System.out.println("ABC\n".repeat(3).indent(8));
+        System.out.println("-".repeat(20));
 
 
     }
