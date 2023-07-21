@@ -9,7 +9,7 @@ import java.nio.charset.StandardCharsets;
 
 public class HttpServerWithIO {
     public static void main(String[] args) throws IOException {
-        ServerSocket serverSocket = new ServerSocket(8080);
+        ServerSocket serverSocket = new ServerSocket(8);
 
         while(true){
             try(Socket socket = serverSocket.accept()){
