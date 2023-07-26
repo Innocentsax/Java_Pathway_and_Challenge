@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="custom.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <script src="script.js"></script>
+    <script src="https://kit.fontawesome.com/dbc64abf3e.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div class="container">
+
+    
+        <div class="container">
+            <div class="sub-container facebook-title">
+                <span class="facebook-heading">
+                    facebook
+                </span>
+                <p class="facebook-info"> Facebook helps you connect and share with the people in your life.</p>
+            </div>
+            <div class="sub-container form-options" >
+                <input type="text" name="username" class="user-input" placeholder="Email address or phonenumber">
+                <input type="password" name="password" class="user-input" placeholder="password">
+                <button class="btn" id="submit"> <i class='fas fa-user-lock' style='font-size:24px'></i>  Login</button>
+                <a id="forgotten-password">Forgotten password? </a>
+                <hr/>
+                <button class="btn-new-acc btn" id="new-account"> <i class='fas fa-user-plus' style='font-size:24px'></i>  Create New Account</button>
+            </div>
+        
+        </div>
+        <div class="container-2" style="display: none;" id="container-2">
+            <div id="create-acc">
+                
+                <input type="text" class="user-input" placeholder="First name"/>
+                <input type="text" class="user-input" placeholder="Last name"/>
+                <input type="number" class="user-input" placeholder="email or phone number"/>
+                <input type="password" class="user-input" placeholder="New password"/>
+                <div>
+                    <select name="gender" class="user-input">
+                        <option>Female</option>
+                        <option>Male</option>
+                    </select>
+                </div>
+                <hr/>
+                <button class="btn" id="submit">Sign Up</button>
+                <div class="Sign-up-cont">
+                    <button class="btn btn-new-acc" id="back-to-login">Login</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
