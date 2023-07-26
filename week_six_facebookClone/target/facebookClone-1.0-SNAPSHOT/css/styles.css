@@ -1,0 +1,32 @@
+/* The previous CSS styles remain the same */
+
+#posts-container {
+    margin-top: 20px;
+}
+
+.post {
+    background-color: #fff;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.post-content {
+    margin-bottom: 10px;
+}
+
+.post-likes {
+    color: #3b5998;
+    cursor: pointer;
+}
+
+.like-button {
+    background-color: transparent;
+    border: none;
+    color: #3b5998;
+    cursor: pointer;
+}
+
+.like-button:focus {
+    outline: none;
+}
